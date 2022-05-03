@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<startup>
+		<supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8"/>
+	</startup>
+
+	<connectionStrings>
+		<add name="con" connectionString="server=localhost;Port=3307;Database=seiwadb;User ID=root;password=p@ssw0rd;Charset='utf8mb4';" providerName="MySql.Data.MySqlClient" />
+	</connectionStrings>
+
+	<appSettings>
+		<add key = "Tns" value="(DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=sv-odadb602)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=cadb901.toyokohan.co.jp)))"/>
+		<add key = "IdPass" value="user id=TKG012;password=TKG012;"/>
+	</appSettings>
+</configuration>
