@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<configSections>
+  <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+   <section name="DevelopmentsupportWPF.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+  </sectionGroup>
+ </configSections>
+ <startup>
+		<supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.8"/>
+	</startup>
+ <userSettings>
+  <DevelopmentsupportWPF.Properties.Settings>
+   <setting name="ServerList" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="IsDarkModeChecked" serializeAs="String">
+    <value>False</value>
+   </setting>
+   <setting name="IsUpgraded" serializeAs="String">
+    <value>False</value>
+   </setting>
+   <setting name="GitHubReadDate" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="IsUpdateHistoryAcquisition" serializeAs="String">
+    <value>True</value>
+   </setting>
+   <setting name="IsOpenLastReferenceFile" serializeAs="String">
+    <value>False</value>
+   </setting>
+   <setting name="OpenLastFilePath" serializeAs="String">
+    <value />
+   </setting>
+   <setting name="ExclusionTables" serializeAs="String">
+    <value>(部分一致。カンマ区切りで複数可)</value>
+   </setting>
+   <setting name="IsExclusionTable" serializeAs="String">
+    <value>False</value>
+   </setting>
+  </DevelopmentsupportWPF.Properties.Settings>
+ </userSettings>
+</configuration>
